@@ -24,7 +24,9 @@ text-decoration: none;
  }
  section {
    margin: 100px;
-   color:brown
+   color:brown;
+   font-size: 16px;
+   font-family: "Montserrat", sans-serif;
  }
 
  h1 {
@@ -56,7 +58,8 @@ text-decoration: none;
  footer {
    margin:100px;
    padding: 20px;
-   color:brown; 
+   color:brown;
+   font-family: "Montserrat", sans-serif; 
  }
 img {
    border:5px solid brown;
