@@ -32,7 +32,7 @@ text-decoration: none;
  h1 {
    font-family: "Montserrat", sans-serif;
    color: brown;
-   justify-content: center;
+   margin-right: auto;
  }
 
  .nav-links {
