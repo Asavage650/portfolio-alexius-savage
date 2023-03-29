@@ -56,7 +56,8 @@ text-decoration: none;
  footer {
    margin:100px;
    padding: 20px;
-   color:brown
-   
+   color:brown; 
  }
-
+img {
+   border:5px solid brown;
+}
