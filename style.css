@@ -4,7 +4,10 @@
     box-sizing: border-box;
     margin: 0;
     padding:0;
-    background-color: peachpuff;
+ }
+
+ body {
+   background-color: peachpuff;
  }
 
  li ,a , button {
@@ -43,6 +46,14 @@ text-decoration: none;
     padding: 0px 20px;
  }
 
+ .textbox {
+   background-color: cadetblue;
+   border:5px solid brown;
+   width:auto;
+   height:175px;
+   border-radius: 20px;
+ }
+
  button {
     padding: 9px 25px;
     background-color: cadetblue;
@@ -63,4 +74,5 @@ text-decoration: none;
  }
 img {
    border:5px solid brown;
+   border-radius: 20px;
 }
